@@ -130,6 +130,7 @@ sidebar_label: Movies and TV shows
 ### Streaming 1080p
 
 - [0123movies](https://www.0123moviesback.com/)
+- [moviesubtitlesrt.com](https://moviesubtitlesrt.com/)
 - [CineBloom](https://www2.cinebloom.com/)
 - [Crackle](https://www.sonycrackle.com/out-of-region.html)
 - [Cyberflix](https://cyberflix.me/) - (Android) - Claims to be 100% free from virus and malware. Direct Download Links are avbl.
