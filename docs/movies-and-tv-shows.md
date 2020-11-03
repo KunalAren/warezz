@@ -130,6 +130,7 @@ sidebar_label: Movies and TV shows
 ### Streaming 1080p
 
 - [0123movies](https://www.0123moviesback.com/)
+- [moviesubtitlesrt.com](https://moviesubtitlesrt.com/)
 - [CineBloom](https://www2.cinebloom.com/)
 - [Crackle](https://www.sonycrackle.com/out-of-region.html)
 - [Cyberflix](https://cyberflix.me/) - (Android) - Claims to be 100% free from virus and malware. Direct Download Links are avbl.
@@ -454,6 +455,7 @@ sidebar_label: Movies and TV shows
 - [WonderfulSubs](https://www.wonderfulsubs.com/) - The best place on the web for all things Anime!.
 - [CCExtractor](https://www.ccextractor.org/) - A tool that analyzes video files and produces independent subtitle files from the closed captions data.
 - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - A free and open source editor for video subtitles.
+- [Moviesubtitlesrt.com](https://moviesubtitlesrt.com) - A free platform to download subtitles for movies, tv shows and web series. 
 
 ### Subtitles Automation
 
